@@ -7,7 +7,7 @@ Data Science and Data Analytics:
 - Python, SQL, Data Analysis, Data Visualization, Pandas, NumPy, Data Wrangling, Data Cleaning, Statistical Analysis, Excel, Data Mining, Business Intelligence (BI), Regression Analysis, Clustering
 
 Machine Learning:
-- Scikit-learn, Natural Language Processing (NLP), Predictive Modeling, Deep Learning, Feature Engineering
+- Scikit-learn, Natural Language Processing (NLP), Predictive Modeling, Tensorflow, Keras, Deep Learning, Feature Engineering
 
 ## Projects
 
