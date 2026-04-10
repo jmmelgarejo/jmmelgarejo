@@ -15,6 +15,7 @@ Machine Learning:
 
 ## Education
 
+- Harvard University, ALM in Sustainability, Masters, ongoing
 - Data Science Certification, TripleTen, July 2024
 - Master of Arts in Teaching, Drew University, May 2012, GPA 4.0
 - Bachelor of Arts in Economics, Drew University, May 2008, Magna Cum Laude
